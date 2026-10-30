@@ -153,4 +153,3 @@ A complete batch-based ELT workflow with:
 - Analytics database loading.
 - Business analysis queries.
 - Execution monitoring and reporting.
-
